@@ -69,5 +69,4 @@ for s in instruktorji:
             handle.write(block)
     i += 1
 
-
     
