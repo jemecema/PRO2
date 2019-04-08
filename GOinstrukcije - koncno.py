@@ -36,6 +36,7 @@ for vrstica in f.readlines():
     nek_instruktor = Instruktor(ime, kraj, predmeti, reference, razpolozljivost, ucenci, ure, slika)
     seznam = SeznamInst()
     seznam.dodaj(nek_instruktor)
+    
 #-----------------------------------------------------------------------------------------------------------
     
 seznam_predmetov = []
